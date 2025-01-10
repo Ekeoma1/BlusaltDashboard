@@ -1,9 +1,9 @@
-import Pic1 from "../../assets/frame.png"
-import Pic2 from "../../assets/frame1.png"
-import Pic3 from "../../assets/frame2.png"
-import Pic4 from "../../assets/frame3.png"
-import Pic5 from "../../assets/frame4.png"
-import Pic6 from "../../assets/frame5.png"
+import Pic1 from "../../assets/Frame.png"
+import Pic2 from "../../assets/Frame1.png"
+import Pic3 from "../../assets/Frame2.png"
+import Pic4 from "../../assets/Frame3.png"
+import Pic5 from "../../assets/Frame4.png"
+import Pic6 from "../../assets/Frame5.png"
 
 const notificationList = [
   {
