@@ -80,6 +80,11 @@
           padding: 24px;
           box-sizing: border-box;
           background-color: #f7f9fb;
+          .section-card-title{
+            color: #1c1c1c;
+            font-weight: 600;
+            font-family: Inter;
+          }
         }
 
         .traffic-section {
@@ -89,6 +94,11 @@
           padding: 24px;
           box-sizing: border-box;
           background-color: #f7f9fb;
+          .section-card-title{
+            color: #1c1c1c;
+            font-weight: 600;
+            font-family: Inter;
+          }
         }
       }
 
@@ -124,6 +134,12 @@
         padding: 24px;
         box-sizing: border-box;
         background-color: #f7f9fb;
+
+        .section-card-title{
+          color: #1c1c1c;
+          font-weight: 600;
+          font-family: Inter;
+        }
       }
     }
 
