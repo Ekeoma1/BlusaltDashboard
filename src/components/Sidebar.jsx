@@ -1,5 +1,5 @@
 import "../styles/sidebar.scss";
-import Logo from "../assets/logo.svg";
+import Logo from "../assets/Logo.svg";
 import Profile from "../assets/profile.png"
 
 import {
